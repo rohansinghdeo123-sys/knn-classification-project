@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+.jupyter_runtime/
+__pycache__/
+*.pyc
+*.log
+.env
